@@ -1,0 +1,28 @@
+name: potest
+favicon: null
+layout_spectrum: 0.5695759779773653
+typography_spectrum: 0.362934973789379
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7899669869802892
+  lightness: 0.12856408744119108
+  saturation: 0.06936000171117485
+  rhythmicContrast: 0.4374405671842396
+purpose: []
